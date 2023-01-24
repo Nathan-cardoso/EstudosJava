@@ -1,3 +1,3 @@
 # EstudosJava
 
-Este repositório é destinado para algoritmos simples com a finalidade de estudar a sintaxe da linguagem java.
+Este repositório é destinado para algoritmos simples, com o intuíto de aprender a sintaxe da linguagem Java.
